@@ -1,1 +1,1 @@
-# DIP-Lab
+# DIP-Lab ASSIGNMENTS Section
